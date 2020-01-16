@@ -1,4 +1,7 @@
 
+<?php
+echo "farhan";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,5 +12,6 @@
 </head>
 <body>
     <div><h1>Github</h1></div>
+    
 </body>
 </html>
